@@ -9,8 +9,8 @@ Wordpress has come a long way to be a fully featured content editor system, but 
 
 [**PhotoSwipe**](https://photoswipe.com/) is a great basis and thus core component of my th23 Gallery plugin, which replaces the Wordpress default to output galleries into a way containing all key information required while maintaining a **simple and easy markup**.
 
-![Gallery embedded in post text, based on thumbnails (polaroid-style)](https://github.com/user-attachments/assets/23b3dd27-a28b-486f-91be-9535643bac87)
-![Gallery open, focused on a single image with navigation between images via intuitive swipe, keyboard or mouse](https://github.com/user-attachments/assets/7fed97bf-d11c-4479-8f4c-bf0fa2bf139c)
+> <img src="https://github.com/user-attachments/assets/23b3dd27-a28b-486f-91be-9535643bac87" alt="" height="200px">
+> <img src="https://github.com/user-attachments/assets/7fed97bf-d11c-4479-8f4c-bf0fa2bf139c" alt="" height="200px">
 
 
 `th23 Gallery` is built with some few goals in mind:
