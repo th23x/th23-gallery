@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-18 08:28+0100\n"
+"PO-Revision-Date: 2024-07-18 08:28+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: th23-gallery-admin.php:32
+msgid "Thumbnail"
+msgstr ""
+
+#: th23-gallery-admin.php:33
+msgid "Medium"
+msgstr ""
+
+#: th23-gallery-admin.php:34
+msgid "Large"
+msgstr ""
+
+#: th23-gallery-admin.php:35
+msgid "Full Size"
+msgstr ""
+
+#: th23-gallery-admin.php:52
+msgid "Settings"
+msgstr ""
+
+#: th23-gallery-admin.php:59
+msgid "Gallery"
+msgstr ""
+
+#: th23-gallery-admin.php:63
+msgid "Default image size"
+msgstr ""
+
+#: th23-gallery-admin.php:85
+msgid "Default image size for newly created galleries"
+msgstr ""
+
+#: th23-gallery.php:175
+#, php-format
+msgid "%1$sThe image%2$s could not be loaded."
+msgstr ""
